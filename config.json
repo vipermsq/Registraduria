@@ -1,0 +1,7 @@
+{
+  "url-backend": "127.0.0.1",
+  "port": 9050,
+  "data-db-connection": "mongodb+srv://admin:MongoDb12345$@cluster0.7xdinwa.mongodb.net/?retryWrites=true&w=majority",
+  "name-db": "RegistraduriaMSQ"
+
+}
